@@ -1,7 +1,7 @@
 | **AWS Sr Cloud Developer| Engineer| Tech Lead**
  | [![](RackMultipart20231101-1-y5p8vu_html_c49f0456a5073590.png)](https://www.credly.com/badges/b4ca2b8f-165f-4e51-986b-a12e8d25d5f0/public_url) |
 | --- | --- |
-| [_ **srinivasarao.gurram@gmail.com|| M.Tech** _](mailto:srinivasarao.gurram@gmail.com%7C%7C%20%20%20M.Tech) _ **CS || 25 Years Exp || Contact No: +1 925-922-4115 || Work authorization: H1B| Roles: C2C |C2H** _ |
+| [_ **sricloudengineer.ca@gmail.com|| M.Tech** _](mailto:sricloudengineer.ca@gmail.com%7C%7C%20%20%20M.Tech) _ **CS || 25 Years Exp || Contact No: +1 925-922-4115 || Work authorization: H1B| Roles: C2C |C2H** _ |
 | **Java, NodeJS, Python with AWS SDK, Serverless-Lambda, DynamoDB, SAM** |
 | _ **Java 18 Years Exp|9 Years on NodeJS || 9+ Cloud Exp with AWS, Azure, GCP|| Open Work Permit in CA** _ |
 
